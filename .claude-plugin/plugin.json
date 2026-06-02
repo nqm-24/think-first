@@ -1,0 +1,11 @@
+{
+  "name": "think-first",
+  "version": "1.0.0",
+  "description": "Clarify, grill, plan, then execute — a structured skill for Claude Code that prevents premature execution on ambiguous requirements.",
+  "author": "nqm-24",
+  "license": "MIT",
+  "skills": [
+    "./skills/think-first"
+  ],
+  "keywords": ["planning", "clarification", "grill", "workflow", "productivity", "think-first"]
+}
